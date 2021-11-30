@@ -1,3 +1,7 @@
-h1 {
-    border: 2px solid black;
+#thirdDiv {
+    background-color: cadetblue;
+}
+
+.divClass{
+    background-color: chartreuse;
 }

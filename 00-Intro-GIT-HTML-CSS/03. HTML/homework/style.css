@@ -1,7 +1,7 @@
 #thirdDiv {
-    img {
-        width="500" height="600";
-      }
+  height: 600px;
+  width: 500px;
+  background-color: chartreuse;
 }
 
 .divClass{
@@ -9,5 +9,8 @@
 }
 
 #spanId {
-    
+  font-size: 18px;
+  margin: 50px;
+  padding: 50px;
+  border: 30px blue;  
 }

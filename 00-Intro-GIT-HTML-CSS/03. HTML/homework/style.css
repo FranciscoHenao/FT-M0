@@ -1,7 +1,13 @@
 #thirdDiv {
-    background-color: cadetblue;
+    img {
+        width="500" height="600";
+      }
 }
 
 .divClass{
-    background-color: chartreuse;
+    
+}
+
+#spanId {
+    
 }

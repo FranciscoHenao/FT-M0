@@ -5,3 +5,4 @@ Strings: son variables que sirven para guardas palabras y texto, incluyendo letr
 Funciones (argumentos, return): son como recetas que me sirven para hacer algo de la misma forma siempre y yo sólo digo cómo lo quiero. Por ejemplo yo pido una pizza de jamón y el cocinero sabe cómo hacerla mirando la receta y teniendo en cuenta que la quiero de jamón.
 Declaraciones if: sirve para que algo se haga siempre y cuando cumpla las condiciones que le digo 
 Valores booleanos (true, false): sirven para decir si algo es verdadero o falso.
+.

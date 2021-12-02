@@ -22,6 +22,19 @@ function conection(status) {
   //Cuando el estado es igual a 2, el usuario está "Away"
   //De lo contrario, presumimos que el usuario está "Offline"
   //Devolver el estado de conexión de usuario en cada uno de los casos.
+switch(status)
+{
+  case 1:
+    alert ('OnLine');
+    break;
+
+  case 2:
+    alert('Away');
+    break;
+
+    default:
+      alert('OffLine');
+}
 }
 
 function saludo(idioma) {
@@ -31,7 +44,25 @@ function saludo(idioma) {
   // Si "idioma" es "ingles", devuelve "Hello!"
   // Si "idioma" no es ninguno de los anteiores o es `undefined` devuelve "Hola!"
   // Tu código:
+  switch (idioma)
+{
+   case "aleman":
+       alert('Guten Tag!');
+       break;
+
+    case "mandarin":
+        alert('Guten Tag!');
+        break;
+    
+    case 'ingles':
+      alert('Hello')
+        
+    default:
+       alert('Hola!');
+       break;
+  }
 }
+
 
 /*
 Para implementar la siguiente función vamos a utilizar una estructura de control de flujo nueva, 

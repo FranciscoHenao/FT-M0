@@ -1,0 +1,6 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for: sirve para hacer algo el número de veces que indiquemos
+
+&&, significa "y", lo usamos cuando queremos ver si algo se cumople y al mismo tiempose cumple otra cosa
+||, significa "0", lo usamos cuando queremos si algo se cumple o se cumple otra cosa
+! significa "lo contrario de". Por ejemplo: !cierto es falso

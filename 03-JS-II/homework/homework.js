@@ -40,9 +40,11 @@ function saludo(idioma) {
   // Si "idioma" es "ingles", devuelve "Hello!"
   // Si "idioma" no es ninguno de los anteiores o es `undefined` devuelve "Hola!"
   // Tu código:
+  if(idioma==='aleman'){return 'Guten Tag!';}
+  else if(idioma==='mandarin'){return 'Ni Hao!';}
+  else if(idioma==='ingles'){return 'Hello!';}
+  return 'Hola!';
 }
-
-
 /*
 Para implementar la siguiente función vamos a utilizar una estructura de control de flujo nueva, 
 llamada switch, si no estás familiarizado con esta estructura, es un buen escenario para hacerle 

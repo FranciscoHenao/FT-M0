@@ -1,0 +1,4 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays: son cajitas como las variables, donde guardamos cosas, pero que tienen a su vez otras cajitas individuales donde podemos guradar información
+    

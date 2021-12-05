@@ -1,18 +1,21 @@
-h3{border:2px solid black; }
+h3{border:2px solid blue }
 
-#thirdDiv {
+#thirdDiv 
+{
   height: 600px;
   width: 500px;
   background-color: chartreuse;
 }
 
-.divClass{
-    
-}
-
-#spanId {
+#spanId 
+{
   font-size: 18px;
   margin: 50px;
   padding: 50px;
   border: 30px blue;  
+}
+
+.divClass
+{
+background-color:cornflowerblue;
 }

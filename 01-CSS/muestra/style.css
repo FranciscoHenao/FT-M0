@@ -1,0 +1,26 @@
+.contenedor{
+    /* height: 100vh; */
+    /* background-color: red; */
+    position: relative;
+    display:flex,
+    flex-direction:column;
+}
+
+header{background-color: yellow;}
+
+nav{
+    background-color: orange;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    background-color: green;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer{
+    background-color: magenta;
+    text-align: center;}

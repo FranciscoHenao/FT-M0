@@ -25,20 +25,36 @@ color: #e5efff;
 /* Ejercicio 3: */
 
 /* Acá va tu código */
-#ejercicioTres{position: relative
-    top:20px;}
+#ejercicioTres{
+    position:absolute; 
+    left: 200px;
+    top: 100px;
+
+}
 
 
 /* Ejercicio 4: */
 
 /* Acá va tu código */
-
+#ejercicioCuatro{
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}
 
 
 /* Ejercicio 5: */
 
 /* Acá va tu código */
 
-
+#ejercicioCinco{
+    display: flex;
+    justify-content: space-evenly;
+    align: center;
+    vertical-align: center;
+    align-items: center;
+    direction: rtl;
+    
+}
 
 /* Ejercicio 6. */

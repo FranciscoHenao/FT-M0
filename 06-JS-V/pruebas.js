@@ -6,7 +6,7 @@ function Gato(nombre, otroParam)
     this.maullar= function()
      {return'Mi nombre es '+this.nombre+' ... Moeow'}
     this.comidaFav=function()
-    {return 'Otra cosa que acabo de hacer '+ this.otroParam
+     {return 'Otra cosa que acabo de hacer '+ this.otroParam
 }
 }
     
